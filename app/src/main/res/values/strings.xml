@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">делитакси.</string>
+    <string name="edit_message">Куда едем?</string>
+    <string name="edit_message2">Во сколько?</string>
+    <string name="button_send">Send</string>
+    <string name="button">Далее</string>
+</resources>
